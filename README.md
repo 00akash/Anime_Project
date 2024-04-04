@@ -6,7 +6,7 @@
 Anime Project is a modern Next.js server-side application that showcases the usage of server actions, infinite scroll, and Framer Motion animations. This project aims to provide a practical guide on leveraging Next.js features to build responsive web applications with enhanced user experiences.
 
 Server actions are functions that run on the server but can be called from client-side components like any other JavaScript function. They are a way to encapsulate business logic and data fetching on the server without creating separate API routes.
-Server actions are created using the useServer flag.
+Server actions are created using the "use server" flag.
 
 Benefits of using server actions:
 
